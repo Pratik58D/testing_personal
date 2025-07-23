@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CancelIcon from "@mui/icons-material/cancel";
+import CancelIcon from "@mui/icons-material/Cancel";
 import { Link, Routes, Route } from "react-router-dom";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import InstagramIcon from "@mui/icons-material/Instagram";
